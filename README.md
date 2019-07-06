@@ -2,7 +2,7 @@
 A jekyll theme, simple and clear, compatible with PC iPad and Phone (RWD)
 
 ## Preview
-#### PC or Pad
+#### PC or Pad mac
 <img style="box-shadow: 10px 10px 5px #888888;border: 1px solid black;" src="https://github.com/jokinkuang/stepbystep/raw/master/article.png"></img>
 #### Mobile
 <div style="box-shadow: 10px 10px 5px #888888;border: 1px solid black;">
